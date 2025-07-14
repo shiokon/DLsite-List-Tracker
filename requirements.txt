@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.4
+numpy==2.2.4
+pandas==2.2.3
+pillow==11.2.1
+requests==2.32.3
+tkcalendar==1.6.1
